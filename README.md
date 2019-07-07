@@ -1,5 +1,8 @@
 # Lego FeatureScript
 
+## Objective
+[School 42](https://www.42.us.org/) RoboLab Hardware piscine: \
+learning CAD automation by using FeatureScript produced. FeatureScript is a language create by [Onshape](https://www.onshape.com/). Onshape is a webase CAD designed software, which you can edit and access anywhere when you have a browser.
 
 ## Lego bricks
 Parameter option:
